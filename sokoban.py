@@ -1,6 +1,6 @@
 from colorama import Fore, Style
 
-play_board = open("/Users/nathanchatagny/Desktop/EPFL/Programming and software/Sokoban game/level1.xsb", "r").read().strip().splitlines()
+play_board = open("/Users/nathanchatagny/Desktop/EPFL/BA2/programming_and_software/sokoban/level1.xsb", "r").read().strip().splitlines()
 
 
 def getPlayerPosition(play_board):
