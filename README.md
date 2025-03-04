@@ -1,3 +1,3 @@
 # sokoban
 
-Game
+Game for the programming and software development course
